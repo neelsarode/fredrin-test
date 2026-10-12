@@ -1,8 +1,7 @@
 # fredrin-test
 
 A scratch repository for trying out Fredrin tickets and
-Workers end to end. It currently contains no application code — this README is the only
-tracked file.
+Workers end to end. It currently contains a single static page, `index.html`.
 
 ## Install
 
@@ -15,5 +14,5 @@ cd fredrin-test
 
 ## Run locally
 
-There is no app, script, or test suite to run. Once code is added, update this section
-with the real install and run commands.
+`index.html` is a static "About Me" page for Neel Sarode's UI/UX Designer application
+to Fredrin. Open it directly in a browser — there is no build step or test suite.
